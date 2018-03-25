@@ -58,3 +58,4 @@ surname = {'A': 'Gem',
 'Y': 'Ranger',
 'Z': 'Ivy',}
 print('You are', name[letter_of_name], surname[letter_of_surname])
+# :)
